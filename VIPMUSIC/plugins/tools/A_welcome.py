@@ -29,11 +29,11 @@ from logging import getLogger
 from VIPMUSIC.utils.database import get_assistant
 
 random_photo = [
-    "https://telegra.ph/file/d3685d2c2a8dcc6202dfd.jpg",
+    "https://telegra.ph/file/da7457b1b817d646b9ec0.jpg",
     "https://telegra.ph/file/ffb282d770094c713fb80.jpg",
-    "https://telegra.ph/file/e1bfd8cec83636a2164ae.jpg",
-    "https://telegra.ph/file/9f5f2cbd1a0e47491a3d1.jpg",
-    "https://telegra.ph/file/719421d3597c5c84c938c.jpg",
+    "https://telegra.ph/file/66687e6a1e68002ff887d.jpg",
+    "https://telegra.ph/file/6342ee3bf15192ae69b3c.jpg",
+    "https://telegra.ph/file/92b50370c36482beda819.jpg",
 ]
 # --------------------------------------------------------------------------------- #
 
