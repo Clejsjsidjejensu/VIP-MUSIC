@@ -15,7 +15,7 @@
 
 
 <h2 align="center">
-    ─「 𝗩𝗜𝗣 𝗠𝗨𝗦𝗜𝗖 」─
+    ─「 TRIGO 𝗠𝗨𝗦𝗜𝗖 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
@@ -35,8 +35,6 @@
   <img src="[https://mallucampaign.in/images/img_1712669753.jpg](https://telegra.ph/file/54fd04dabfbab18a645d7.jpg)">
 </p>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [𝄟ॐ❥𝗧𝗚🍷𝗩𝗖🌷𝗕𝗢𝗧❥𝄟⃟🥀](https://t.me/DeathMusicrobot)**
-
 
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=⚠️𝗙𝗢𝗥𝗞+𝗧𝗛𝗜𝗦+𝗥𝗘𝗣𝗢+𝗙𝗜𝗥𝗦𝗧𝗟𝗬⚠️">
@@ -48,7 +46,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Usrbotbot07/VIP-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Clejsjsidjejensu/VIP-MUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/THE-VIP-BOY-OP/VIP-MUSIC"> <img src="https://graph.org/file/7758e15f135e166b8637d.jpg" width="520" height="198.45"/></a></p>
 ## 𝐇𝐨𝐰 𝐓𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐓𝐮𝐭𝐨𝐫𝐢𝐚𝐥 𝐕𝐢𝐝𝐞𝐨 𝐎𝐧 𝐘𝐨𝐮𝐭𝐮𝐛𝐞 📺
 
